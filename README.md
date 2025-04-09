@@ -25,16 +25,15 @@ Execute the program using runserver command.
 
 ### PROGRAM
 
-
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Slot Time Table - YOUR NAME</title>
+    <title>Slot Time Table - Hareni N(212224040096)</title>
 </head>
 <body>
-    <IMG SRC="PASTE THE IMAGE SOURCE"HEIGHT="1500"WIDTH="1500"BORDER=6>
+    <IMG SRC="logo.png"HEIGHT="100"WIDTH="500"BORDER=6>
     <h2>Saveetha Engineering College</h2>
-    <h3>SLOT TIME TABLE - YOUR-NAME</h3>
+    <h3>SLOT TIME TABLE - Hareni N(212224040096)</h3>
 
     <table border="1">
         <tr BGCOLOR="YELLOW">
